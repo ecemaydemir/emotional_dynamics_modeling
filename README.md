@@ -1,4 +1,4 @@
-# emotional_dynamics_modeling
+# Mathematical Modeling and Simulation of Emotional Dynamics using Differential Equations
 
 Simulation of emotional states through mathematical models based on
 Ordinary Differential Equations (ODEs).
