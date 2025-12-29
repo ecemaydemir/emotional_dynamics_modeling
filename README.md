@@ -1,2 +1,13 @@
 # emotional_dynamics_modeling
-Mathematical modeling and simulation of human emotional dynamics using Ordinary Differential Equations (ODEs) with Python.
+
+Simulation of emotional states through mathematical models based on
+Ordinary Differential Equations (ODEs).
+
+This project explores how emotions evolve under:
+- natural decay,
+- external forcing,
+- nonlinear internal regulation,
+- interaction between emotional states.
+
+All models are mathematically defined, analytically solved, and simulated
+in Python. Plots and report included.
