@@ -11,3 +11,6 @@ This project explores how emotions evolve under:
 
 All models are mathematically defined, analytically solved, and simulated
 in Python. Plots and report included.
+
+## Author
+Ecem Aydemir, 2025
